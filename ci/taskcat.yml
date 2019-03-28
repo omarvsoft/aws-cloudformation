@@ -12,4 +12,6 @@ global:
 tests:
   eks:
     parameter_input: params.json
-    template_file: EKS_Cluster.template
+    template_file: EKS_Master-Stack.template
+    regions:
+      - us-east-1
