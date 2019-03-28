@@ -1,0 +1,27 @@
+[
+      
+        {
+            "ParameterKey": "ClusterName",
+            "ParameterValue": "Development"
+        },
+        {
+            "ParameterKey": "NodeGroupName",
+            "ParameterValue": "k8s"
+        },
+        {
+            "ParameterKey": "NodeImageId",
+            "ParameterValue": "ami-0f54a2f7d2e9c88b3"
+        },
+        {
+            "ParameterKey": "KeyName",
+            "ParameterValue": "eova"
+        },
+        {
+            "ParameterKey": "VpcId",
+            "ParameterValue": "vpc-53c86e2b"
+        },
+        {
+            "ParameterKey": "Subnets",
+            "ParameterValue": "subnet-0196cb4a,subnet-7155ef5a"
+        }
+]
