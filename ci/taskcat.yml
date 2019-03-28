@@ -14,4 +14,4 @@ tests:
     parameter_input: params.json
     template_file: EKS_Master-Stack.template
     regions:
-      - us-east-1
+      - us-west-2
