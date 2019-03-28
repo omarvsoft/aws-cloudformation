@@ -23,13 +23,5 @@
         {
             "ParameterKey": "Subnets",
             "ParameterValue": "subnet-0196cb4a,subnet-7155ef5a"
-        },
-        {
-            "ParameterKey": "RoleArn",
-            "ParameterValue": "arn:aws:iam::443487368654:role/EKS-IAMStack-RH252BR6KQ0J-ServiceRoleForAmazonEKS-GFYUP3L80ZYM"
-        },
-        {
-            "ParameterKey": "NodeSecurityGroupIds",
-            "ParameterValue": "sg-456789"
         }
 ]
